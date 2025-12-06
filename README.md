@@ -1,4 +1,4 @@
-# jeux-de-devinette-ceci est mon 1er projet en c 
+# jeux-de-devinette
 
 #include <stdio.h>
 
